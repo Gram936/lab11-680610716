@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 680610716
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :วิณัฐพล จันทร์สุข
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/Gram936/lab11-680610716/blob/master/scripts/script.js
 
 ---
 
