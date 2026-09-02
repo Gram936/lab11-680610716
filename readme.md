@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล :วิณัฐพล จันทร์สุข
 
-GitHub Page URL : https://github.com/Gram936/lab11-680610716/blob/master/scripts/script.js
+GitHub Page URL : https://gram936.github.io/lab11-680610716/
 
 ---
 
